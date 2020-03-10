@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LabOne:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LabOne_jar</output-path>
+    <root id="archive" name="LabOne.jar">
+      <element id="module-output" name="LabOne" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/okhttp-4.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/okio-2.4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/kotlin-stdlib-1.3.70.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
