@@ -1,0 +1,16 @@
+
+package sample.json.flightstrajectory;
+
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
+public class Code_ {
+
+    @SerializedName("iata")
+    @Expose
+    public String iata;
+    @SerializedName("icao")
+    @Expose
+    public String icao;
+
+}

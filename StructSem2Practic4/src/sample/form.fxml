@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <AnchorPane prefHeight="63.0" prefWidth="600.0">
+         <children>
+            <Text layoutX="14.0" layoutY="34.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Поиск судна:" />
+            <Button fx:id="SearchBtn" layoutX="369.0" layoutY="16.0" mnemonicParsing="false" onAction="#onCLickSearchBtn" text="Найти" />
+            <TextField fx:id="SearchTextField" layoutX="105.0" layoutY="16.0" prefHeight="27.0" prefWidth="252.0" />
+         </children>
+      </AnchorPane>
+      <TableView fx:id="FlyTableView" editable="true" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" pickOnBounds="false" prefHeight="281.0" prefWidth="599.0">
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <AnchorPane prefHeight="63.0" prefWidth="600.0">
+         <children>
+            <Button fx:id="BuildWay1" layoutX="460.0" layoutY="17.0" mnemonicParsing="false" onAction="#onClickBuildWay" text="Построить путь" />
+            <Text layoutX="9.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" Введите дату и время: " />
+            <TextField fx:id="timePciker" layoutX="351.0" layoutY="17.0" prefHeight="27.0" prefWidth="85.0" promptText="19:01" />
+            <DatePicker fx:id="datePicker" layoutX="161.0" layoutY="17.0" prefHeight="27.0" prefWidth="173.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>
