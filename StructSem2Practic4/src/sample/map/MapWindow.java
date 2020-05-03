@@ -141,7 +141,7 @@ public class MapWindow {
     }
 
     public String RenderPage(Map<String, Object> data){
-        String path = "/Users/cobolt/IdeaProjects/StructSem2Practic4/out/production/StructSem2Practic4/sample/map/template";
+        String path = "/Users/cobolt/IdeaProjects/Struct/StructSem2Practic4/out/production/StructSem2Practic4/sample/map/template";
         Configuration cfg = new Configuration(Configuration.VERSION_2_3_29);
 
         try {

@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="StructSem2Practic4:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Struct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/StructSem2Practic4_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StructSem2Practic4/META-INF/StructSem2Practic4.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StructSem2Practic4/sample/map/MapWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StructSem2Practic4/sample/map/MapWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/map/MapWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/map/MapWindow.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,8 +77,12 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1YuF30bm9M49RiY0jSox3JIadyB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -75,6 +92,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="structsem2practic4" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -83,14 +104,16 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.18275861" />
+    <property name="project.structure.side.proportion" value="0.13448276" />
     <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -101,7 +124,7 @@
       <recent name="$PROJECT_DIR$/src/map" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.StructSem2Practic4.jar (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -159,6 +182,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StructSem2Practic4.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/StructSem2Practic4_jar/StructSem2Practic4.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StructSem2Practic4.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/StructSem2Practic4/StructSem2Practic4.jar" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -180,6 +211,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.StructSem2Practic4.jar" />
+      <item itemvalue="JAR Application.StructSem2Practic4.jar (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.StructSem2Practic4.jar (1)" />
+        <item itemvalue="JAR Application.StructSem2Practic4.jar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -199,6 +241,12 @@
       <workItem from="1584096610831" duration="1096000" />
       <workItem from="1584104119556" duration="167000" />
       <workItem from="1584177189952" duration="5632000" />
+      <workItem from="1584223628484" duration="271000" />
+      <workItem from="1584254678286" duration="258000" />
+      <workItem from="1584390350212" duration="521000" />
+      <workItem from="1584650423949" duration="245000" />
+      <workItem from="1586630143211" duration="3095000" />
+      <workItem from="1587734120479" duration="617000" />
     </task>
     <servers />
   </component>
@@ -210,10 +258,18 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586631508629">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/4.0.1276.800@4.0.1276.800" timestamp="1586631508629" />
     <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1584036888463">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
     <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/4.0.1276.800@4.0.1276.800" timestamp="1584036888463" />
+    <state x="378" y="191" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586637020014">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state x="378" y="191" key="#com.intellij.ide.util.TreeClassChooserDialog/4.0.1276.800@4.0.1276.800" timestamp="1586637020014" />
     <state x="490" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583829735311">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
@@ -230,34 +286,42 @@
       <screen x="4" y="0" width="1276" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/4.0.1276.800@4.0.1276.800" timestamp="1583856363203" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1584183237386">
+    <state x="378" y="173" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1586636064310">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/4.0.1276.800@4.0.1276.800" timestamp="1584183237386" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/4.23.1276.777@4.23.1276.777" timestamp="1583870258234" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1584183237385">
+    <state x="378" y="173" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/4.0.1276.800@4.0.1276.800" timestamp="1586636064310" />
+    <state width="1238" height="219" key="GridCell.Tab.0.bottom" timestamp="1587738674729">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/4.0.1276.800@4.0.1276.800" timestamp="1584183237385" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center/4.23.1276.777@4.23.1276.777" timestamp="1583870258231" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1584183237384">
+    <state width="1238" height="219" key="GridCell.Tab.0.bottom/4.0.1276.800@4.0.1276.800" timestamp="1587738674729" />
+    <state width="1234" height="212" key="GridCell.Tab.0.bottom/4.23.1276.777@4.23.1276.777" timestamp="1584650905414" />
+    <state width="1238" height="219" key="GridCell.Tab.0.center" timestamp="1587738674728">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/4.0.1276.800@4.0.1276.800" timestamp="1584183237384" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left/4.23.1276.777@4.23.1276.777" timestamp="1583870258231" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1584183237386">
+    <state width="1238" height="219" key="GridCell.Tab.0.center/4.0.1276.800@4.0.1276.800" timestamp="1587738674728" />
+    <state width="1234" height="212" key="GridCell.Tab.0.center/4.23.1276.777@4.23.1276.777" timestamp="1584650905413" />
+    <state width="1238" height="219" key="GridCell.Tab.0.left" timestamp="1587738674727">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/4.0.1276.800@4.0.1276.800" timestamp="1584183237386" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right/4.23.1276.777@4.23.1276.777" timestamp="1583870258232" />
-    <state x="128" y="0" key="SettingsEditor" timestamp="1583829729538">
+    <state width="1238" height="219" key="GridCell.Tab.0.left/4.0.1276.800@4.0.1276.800" timestamp="1587738674727" />
+    <state width="1234" height="212" key="GridCell.Tab.0.left/4.23.1276.777@4.23.1276.777" timestamp="1584650905412" />
+    <state width="1238" height="219" key="GridCell.Tab.0.right" timestamp="1587738674728">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state x="128" y="0" key="SettingsEditor/4.0.1276.800@4.0.1276.800" timestamp="1583829729538" />
-    <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1584177195782">
+    <state width="1238" height="219" key="GridCell.Tab.0.right/4.0.1276.800@4.0.1276.800" timestamp="1587738674728" />
+    <state width="1234" height="212" key="GridCell.Tab.0.right/4.23.1276.777@4.23.1276.777" timestamp="1584650905413" />
+    <state x="231" y="0" key="SettingsEditor" timestamp="1586637876777">
       <screen x="4" y="0" width="1276" height="800" />
     </state>
-    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/4.0.1276.800@4.0.1276.800" timestamp="1584177195782" />
+    <state x="231" y="0" key="SettingsEditor/4.0.1276.800@4.0.1276.800" timestamp="1586637876777" />
+    <state x="530" y="276" key="classpath-attribute-editor" timestamp="1586631762583">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state x="530" y="276" key="classpath-attribute-editor/4.0.1276.800@4.0.1276.800" timestamp="1586631762583" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1587734134948">
+      <screen x="4" y="0" width="1276" height="800" />
+    </state>
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/4.0.1276.800@4.0.1276.800" timestamp="1587734134948" />
     <state x="319" y="248" key="com.intellij.ide.util.TipDialog/4.23.1276.777@4.23.1276.777" timestamp="1584096620629" />
     <state x="378" y="170" key="extract.method.dialog" timestamp="1583863290398">
       <screen x="4" y="0" width="1276" height="800" />
